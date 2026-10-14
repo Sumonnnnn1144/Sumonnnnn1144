@@ -11,8 +11,8 @@ About Me
 🎓 Student at University of Science - VNUHCM
 🌱 Currently learning AWS, Linux, Networking
 🏆 Preparing for AWS Certified Cloud Practitioner
-📫 Email: your-email@example.com
-🌐 LinkedIn: linkedin.com/in/your-linkedin
+📫 Email: tranduykhang.work@gmail.com
+🌐 LinkedIn: linkedin.com/in/tranduykhang
 
 <!--
 **Sumonnnnn1144/Sumonnnnn1144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
